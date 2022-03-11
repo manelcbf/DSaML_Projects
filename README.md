@@ -8,3 +8,7 @@ Repository for group project management.
 Exploração própria dos dados. O Jupiter Notebook aqui do repositório já tem um tratamento inicial para ajudar ao kickoff.
 
 Próxima reunião: 15.03 - 17h45 (a confirmar)
+
+#### Download dos ficheiros via GitHub Browser:
+
+Clicar no ficheiro > clicar em "Raw" (lado direito no topo do ficheiro) > Botão direito do rato > Guardar como > Remover extensão ".txt"
